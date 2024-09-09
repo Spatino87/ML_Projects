@@ -1,1 +1,0 @@
-This project aims to predict house prices based on various features such as location, size, number of bedrooms, and more. The model is built using machine learning techniques, primarily linear regression, and the data is preprocessed to improve prediction accuracy.
